@@ -21,7 +21,7 @@ body {
 }
 
 /* The Letters "Seo" in the Company */
-.header h1 .seo {
+#seo {
     color: #d9dcd6;
 }
 
