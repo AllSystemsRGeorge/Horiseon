@@ -16,14 +16,14 @@ body {
     background-color: var(--seo);
 }
 
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: var(--darkblue);
     color: var(--white);
 }
 
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
@@ -33,7 +33,7 @@ body {
     color: var(--seo);
 }
 
-.header div {
+header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -41,7 +41,7 @@ body {
     font-size: 20px;
 }
 
-.header div ul li {
+header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
