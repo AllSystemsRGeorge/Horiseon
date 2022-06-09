@@ -10,7 +10,6 @@
     --blue: #0072bb;
     --lightblue: #2589bd;
     --darkblue: #2a607c;
-
 }
 
 body {
@@ -50,6 +49,10 @@ body {
 a {
     color: var(--white);
     text-decoration: none;
+}
+
+a:hover {
+    color: var(--blue);
 }
 
 p {
